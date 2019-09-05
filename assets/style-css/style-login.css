@@ -1,0 +1,42 @@
+body {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.form-login {
+    margin-top: 100px;
+    margin-left: 400px;
+}
+.outter-form-login {
+    padding: 20px;
+    background: #EEEEEE;
+    position: relative;
+    border-radius: 5px;
+}
+
+.inner-login .form-control {
+    background: #D3D3D3;
+}
+h3.title-login {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family: 'Staatliches', cursive;
+}
+
+.forget {
+    margin-top: 20px;
+    color: #ADADAD;
+}
+.btn-custom-green {
+    background: #21A957;
+    color: #fff;
+}
+.title-login:hover {
+	color: white;
+}
+.btn:hover {
+	background-color: grey;
+}
+
+
+

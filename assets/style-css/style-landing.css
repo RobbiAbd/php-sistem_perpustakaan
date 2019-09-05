@@ -1,0 +1,49 @@
+.text-white 
+{
+	font-family: 'Staatliches', cursive;
+}
+.title-landing {
+	font-family: 'Staatliches', cursive;
+	font-size: 50px;
+    margin-top: 200px;
+    margin-bottom: 1rem;
+
+}
+.sub-title-landing {
+	font-size: 15px;
+	font-family: times new roman;
+}
+a {
+	font-family: 'Acme', sans-serif;
+	font-size: 20px;
+}
+body {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+	.bg-dark{
+	 background-color: transparent!important; 
+	}
+	.navbar-dark .navbar-toggler {
+    
+	}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-family: 'Staatliches', cursive;
+    font-size: 1rem;
+    line-height: 1.5;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+

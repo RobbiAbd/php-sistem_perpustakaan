@@ -1,0 +1,29 @@
+.btn-secondary {
+ 
+    margin-top: 10px;
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+#article , #sidebar{
+	border-radius: 20px;
+		}
+		.nav-link:hover {
+	color: cyan;
+		}
+
+		/*RESPONSIVE*/
+		@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+    .btn-secondary {
+
+    margin-bottom: 5px;
+    background-color: darkgreen;
+	}
+	#article {
+    margin-bottom: 20px;
+    }
+
+}
